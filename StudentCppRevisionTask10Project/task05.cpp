@@ -44,5 +44,6 @@
 *	[ input 10]: -144
 *	[output 10]: -1
 */
-
-//task05
+int task05(long long num) {
+	return 0;
+}

@@ -29,4 +29,6 @@
 *	[Sample function output 5]: 1
 */
 
-//taskX
+int taskX(long long num) {
+	return 0;
+}

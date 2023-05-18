@@ -27,4 +27,6 @@
 *	[output 4]: 4
 */
 
-//task02
+int task02(long long num) {
+	return 0;
+}

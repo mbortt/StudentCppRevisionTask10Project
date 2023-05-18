@@ -38,4 +38,6 @@
 *	[output 7]: -1
 */
 
-//task04
+long long task04(int num) {
+	return 0;
+}
